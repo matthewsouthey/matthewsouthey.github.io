@@ -1,14 +1,14 @@
 ###########
 # site.title, site.url, site.author.name
 
-title:   'Matthew Southey'
+title: Matthew Southey
 author:
-  name:  'Matthew Southey'
+  name: Matthew Southey
 
 ## note: 
 #  use site.path in your templates to make it work for both protocols e.g. http and https
 #  use site.url only inside the web feed template (e.g. requires full url incl. protocol)
-path: matthewsouthey.com/
+path: /
 url:  matthewsouthey.com/
 
 
