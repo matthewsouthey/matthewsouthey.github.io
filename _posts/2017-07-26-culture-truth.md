@@ -1,11 +1,8 @@
 ---
 published: true
----
----
 layout: post
-title: "Quick Books: Culture and Moral Truth – Taylor, Frankfurt, and Harris"
+title: 'Quick Books: Culture and Moral Truth – Taylor, Frankfurt, and Harris'
 ---
-
 I have recently read Sam Harris’ _The Moral Landscape_, Harry Frankfurt’s _On Truth_, and Charles Taylor’s _The Malaise of Modernity_, in quick succession. All three of these books are responses to a trend in modernity towards to a quasi-moral relativism on a cultural level. Frankfurt and Taylor are more concerned with the idea of truth in general, while Harris is concerned with moral truth in particular. _The Malaise of Modernity_ was the first book published in 1991, while _On Truth_ was published in 2006, and _The Moral Landscape_ in 2010. Politically, Harris has a particular bone to pick with some forms of “regressive” liberalism while Taylor is sympathetic and encouraging of the left. Frankfurt’s book is more concerned with a bipartisan critique of societal disregard for truth. Taylor and Harris both discuss young people and students, and while Harris is highly disdainful of campus politics, Taylor is more neutral. 
 
 _The Moral Landscape_ by Sam Harris sets forth the idea that morality is not relative: morality can be correlated to human well-being. If human well-being is seen as the metric for morality, it is possible to compare various types of moral codes or even cultures as either enhancing or hindering human flourishing. According to Harris, it is therefore not merely an opinion that murdering apostates is wrong – it clearly results in human suffering rather than flourishing. _On Truth_ and _The Malaise of Modernity_ also argue against a naive relativism. I find that Taylor’s treatment of the issue is the most impenetrable due to its scholarly language but is the most precise at enumerating the possibilities that relativism heralds. Frankfurt, as always, writes in a clear style that uses philosophy to explain the reasons (rational or not) why people act the way they do. All of them find a disregard for the truth troubling, particularly criticizing those that claim there is no such thing as truth, moral or otherwise. Such relativism seems to be closely related to post-modern ideas of truth, which Frankfurt does his best to dismantle in his book.
