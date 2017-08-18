@@ -1,7 +1,7 @@
 ###########
 # site.title, site.url, site.author.name
 
-title: 'Matthew Southey'
+title: 'Matthew Southey - half-baked half-thoughts'
 author:
   name: 'Matthew Southey'
 
@@ -29,4 +29,3 @@ exclude:
 
 safe: true
 lsi: false
-
