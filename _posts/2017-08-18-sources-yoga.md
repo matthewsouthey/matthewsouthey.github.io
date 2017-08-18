@@ -26,7 +26,7 @@ _Shiva Samhita_<br>
 _Patanjali’s Yoga Sutras_ (the Edwin Bryant translation is particularly good)<br>
 _The Bhagavad Gita_ (and really anything else “Hindu” related)
 
-“Scholarly” Sources:
+“Scholarly” Sources:<br>
 _The Alchemical Body_ by David Gordon White<br>
 _Yoga Body: The Origins of Modern Posture Practice_ by Mark Singleton<br>
 _Selling Yoga_ by Andrea Jain<br>
