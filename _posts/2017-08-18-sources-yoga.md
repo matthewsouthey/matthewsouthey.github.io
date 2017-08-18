@@ -19,15 +19,15 @@ Some critics of contemporary yoga practice claim that it is simply spiritual mat
 	
 More on this:
 
-(often cited as) Primary Yoga Sources:
-Hatha Yoga Pradipika
-Gheranda Samhita
-Shiva Samhita
-Patanjali’s Yoga Sutras [the Edwin Bryant translation is particularly good]
+(often cited as) Primary Yoga Sources:<br>
+Hatha Yoga Pradipika <br>
+Gheranda Samhita<br>
+Shiva Samhita<br>
+Patanjali’s Yoga Sutras (the Edwin Bryant translation is particularly good)<br>
 The Bhagavad Gita (and really anything else “Hindu” related)
 
 “Scholarly” Sources:
-The Alchemical Body by David Gordon White
-Yoga Body: The Origins of Modern Posture Practice by Mark Singleton
-Selling Yoga by Andrea Jain
-The Great Oom by Robert Love
+The Alchemical Body by David Gordon White<br>
+Yoga Body: The Origins of Modern Posture Practice by Mark Singleton<br>
+Selling Yoga by Andrea Jain<br>
+The Great Oom by Robert Love<br>
