@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-title: null
+title: 'Historical Confabulations: The Diverse Sources of Yoga'
 ---
 To trace the history of yoga, is to trace a nebulous cluster of ideas and practices, across wildly different religions and groups of people. For hundreds of years there have been yogas in many Indic religions such as Buddhism and Jainism, but for most people, the term yoga, and it’s modern offspring are often associated with Hinduism. It is important to note that Hinduism itself is an over-generalization that encapsulates an enormous field of beliefs and forms of religiosity. India itself is a country of pluralism that is in no way reducible to a single set of beliefs or practices, nor can it be essentialized in any meaningful way. There are people who follow primarily one deity (such as Visnu), multiple deities, different philosophies, and there are local village practices (such as tree worship). Syncretism, the blending of various beliefs and ideas, is characteristic of Indian religion and philosophy. Two people who might claim to be Hindu can believe and practice radically different things (the modern conception of a unitary Hindu identity is a relatively recent one, largely brought about due to the collapse of the British raj).
 
