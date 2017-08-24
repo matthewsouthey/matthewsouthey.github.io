@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 title: 'Pop-Book: The Philosopher and The Wolf'
 ---
@@ -14,4 +14,4 @@ Rowlands brings in Husserl to describe how humans don’t actually observe the p
 
 All that being said, I did enjoy the book. And I did enjoy the ideas of other philosophers that he brought to the book. Rowlands draws an interesting connection between John Rawls’ idea of the “original position” and cutting a pizza and getting the last slice (to ensure you cut it fairly).  I also enjoyed his discussion of Wittgenstein’s idea of death as the limit of our perception; just like we can’t see the end of our vision (otherwise it wouldn’t be the end) we can’t see the end of our life. Rowlands than makes the trite point that death is still a robbery since it robs us of our future – I don’t think that Wittgenstein claimed that death is insignificant, just that it is something we never actually experience. He also mentions Sartre’s ideas of existence preceeding essence in humans, a fancy way of saying that since we concern ourselves with questions of our purpose we feel like we do not have a given essence. Since we can have a perspective on our perspective, we do not act out of “first-order” drives like a wolf or another animal, whose essence precedes their existence.
 
-All in all, I appreciate that Rowland sees the importance of animals, and I found his deep fraternal connection with Brenin touching. I also found the various anecdotes concerning Brenin engaging and worthwhile. Furthermore, the book was fun to read! But I don’t think this book is redeemable as a work of philosophy, despite the worthwhile tidbits scattered in it’s pages. If I was forced to use a rating system in order to convince you that I did enjoy this book, I would probably say it was a 3.5/5. 
+All in all, I appreciate that Rowland sees the importance of animals, and I found his deep fraternal connection with Brenin touching. I also found the various anecdotes concerning Brenin engaging and worthwhile. Furthermore, the book was fun to read! But I don’t think this book is redeemable as a work of philosophy, despite the worthwhile tidbits scattered in it’s pages. If I was forced to use a rating system in order to convince you that I did enjoy this book, I would probably say it was a 3.5/5.
