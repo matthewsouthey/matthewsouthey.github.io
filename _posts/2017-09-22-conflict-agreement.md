@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 title: 'Metaphors: Conflict and Agreement Patterns'
 ---
