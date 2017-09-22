@@ -1,31 +1,22 @@
-###########
-# site.title, site.url, site.author.name
+# Permalinks
+# permalink:           pretty
 
-title: 'Matthew Southey * half-baked half-thoughts'
-author:
-  name: 'Matthew Southey'
+# Setup
+title:               Matthew Southey
+tagline:             * half-baked half-thoughts
+url:                 http://matthewsouthey.com
+paginate:            1
+baseurl:             ""
 
-## note: 
-#  use site.path in your templates to make it work for both protocols e.g. http and https
-#  use site.url only inside the web feed template (e.g. requires full url incl. protocol)
-#path: 'http://matthewsouthey.github.io'
-url:  'http://matthewsouthey.com'
-
-
-########
-# more settings
-
-markdown: kramdown
-
+# Assets
+#
+# We specify the directory for Jekyll so we can use @imports.
 sass:
-  sass_dir: css
-  style:    expanded
+  sass_dir:          _sass
+  style:            :compressed
+        
 
-permalink: /:title.html
-
-exclude:
-- README.md
-
-
-safe: true
-lsi: false
+# Gems
+gems:
+  - jekyll-pasublginate
+  - jekyll-gist
