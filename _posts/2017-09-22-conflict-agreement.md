@@ -23,7 +23,7 @@ Goal: To triumph over one’s opponent and prove one’s own ideas correct.
 Argument: A methodology that is  isomorphic with lens B. There is now complete identification with one’s ideas or viewpoints. A rejection of one’s ideas is synonymous with a complete rejection of one’s being or self. One therefore defends (and therefore attacks) their ideas with all the vehemence and obstinacy of self-preservation. It is now a matter of will, rather than persuasion. Any notion of pursuing truth is completely out of the picture. Argument is about negative emotions, attack and defense, and the ideas or views have become subordinate to the task of self-preservation.
 Goal: Beating the other person and making them feel bad; protecting one’s sense of self in order to not be completely destroyed; making sure the other person feels that they are in the wrong
 
-![flowchart]({{site.baseurl}}//images/flowpattern.jpg)
+![flowchart]({{site.baseurl}}/images/flowpattern.jpg)
 
 It is clear the most peaceful form of engagement is conversation, where there is an attempt to reach the truth together. What this requires is trust; the ideas are standing out there open and exposed with no emotional reinforcement or attachment to one’s sense of self. It is almost a paradox, the best way to change someone’s mind is when you are simply trying to get to the truth. Perhaps your ideas (not you) end up being incorrect and that would be okay – it’s not about being right. 
 
