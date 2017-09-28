@@ -2,6 +2,7 @@
 published: true
 layout: post
 title: 'Letter: AI Safety and AI Policy'
+comments: true
 ---
 Many presentations on superintelligence often start with a caveat, “what I am about to discuss is not like the robots in Terminator...” or a reference to science fiction, “superintelligence is often depicted as the enemy of humanity...”. When discussing the future, researchers often employ literary devices like metaphor or analogy in order to make difficult ideas comprehensible. Even the works of Nick Bostrom such as Superintelligence or The Fable of the Dragon-Tyrant begin with fables, stories that help illuminate the often counter-intuitive subject matter. Marshaling a global response to the serious problem of superintelligence requires the ability to communicate difficult ideas effectively; the various ways these ideas are communicated is worth investigating.
 

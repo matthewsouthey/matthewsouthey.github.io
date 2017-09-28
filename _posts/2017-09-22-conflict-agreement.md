@@ -2,6 +2,7 @@
 published: true
 layout: post
 title: 'Metaphors: Conflict and Agreement Patterns'
+comments: true
 ---
 People who hold differing views, opinions, and facts often engage in some form of interaction – but this interaction can be framed in different ways. Perhaps one person thinks: “I’m fairly sure that my information is correct, but lets figure out the truth together” - that person might engage in a discussion with the lens “together we can converge upon the truth” (lens B). However, the way that the majority of differences begins is with the thought “I am certain of one thing – the other person is wrong” which leads to the lens “I need to convince them of my viewpoint” (lens A).
 ```

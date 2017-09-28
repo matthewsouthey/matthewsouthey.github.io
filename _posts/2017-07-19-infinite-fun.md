@@ -2,6 +2,7 @@
 layout: post
 title: 'Intersection: Infinite Fun Space & Simulation Theory'
 published: true
+comments: true
 ---
 
 In Iain Banks’ book *Excession* an advanced humanoid civilization has created and populated the galaxy with various artificial intelligences called Minds. In the universe of The Culture, which is articulated in ten books written by Banks, Minds have become so powerful that they are capable of creating entire simulated universes. These simulated universes are created for humans while they sleep, in “dream adventures” where they can play as pirates, knights, or other exciting roles with other sleepers. However, the other major role of simulated worlds is for the Minds themselves. The most fun a Mind can have is in something called Infinite Fun Space, where machines tinker with the creation of ‘mental’ universes. Infinite Fun Space is supposed to consist of “configurations of wonder and bliss even the simplest abstract of which the human-basic brain had no conceivable way of comprehending”. Furthermore, these worlds are compared to a drug that is “ultimately liberating, utterly enhancing, unadulterably beneficial… for the intellect of machines”. The Culture series is a utopian one, where most technologies are seen as beneficial to humanity. This itself is extraordinary, since pop culture is absolutely inundated with stories of technology run amuck – especially in relationship to simulated worlds.

@@ -2,6 +2,7 @@
 published: true
 layout: post
 title: 'Pop-book: The Philosopher and The Wolf'
+comments: true
 ---
 
 I really enjoyed reading Mark Rowlands' _The Philosopher and the Wolf_ (I finished it in a day), despite disagreeing with many of the arguments that Rowlands puts forth. This book was on Christof Koch’s book list, and so I thought I would give it a read despite usually avoiding “pop ----- (philosophy, psychology, science)” books. It concerns a young philosophy professor who adopts a wolf cub – Brenin – and their various adventures throughout Europe and America. A long the way, Rowlands riffs on a variety of subjects, most of them concerning how horrible humans are. The philosophy within the book is not complex, and perhaps the book earns the genre of “pop philosophy” simply because of Rowland’s constant dismissal of humanity. It’s not even a good dismissal but the negativity may help the philosophy feel deeper.

@@ -2,6 +2,7 @@
 published: true
 layout: post
 title: 'Quick Books: Culture and Moral Truth – Taylor, Frankfurt, and Harris'
+comments: true
 ---
 I have recently read Sam Harris’ _The Moral Landscape_, Harry Frankfurt’s _On Truth_, and Charles Taylor’s _The Malaise of Modernity_, in quick succession. All three of these books are responses to a trend in modernity towards to a quasi-moral relativism on a cultural level. Frankfurt and Taylor are more concerned with the idea of truth in general, while Harris is concerned with moral truth in particular. _The Malaise of Modernity_ was the first book published in 1991, while _On Truth_ was published in 2006, and _The Moral Landscape_ in 2010. Politically, Harris has a particular bone to pick with some forms of “regressive” liberalism while Taylor is sympathetic and encouraging of the left. Frankfurt’s book is more concerned with a bipartisan critique of societal disregard for truth. Taylor and Harris both discuss young people and students, and while Harris is highly disdainful of campus politics, Taylor is more neutral. 
 
