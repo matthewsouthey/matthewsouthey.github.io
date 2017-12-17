@@ -5,7 +5,7 @@ comments: true
 ---
 They feel the thunderous footsteps ahead of them, they can see the metallic glint on the horizon. There is something there, and the essays and thoughts they have is the shadow of the colossus. Is religious thought the forecast of the technological eschaton? In a time before the information age, religious thought reflected the ancient human yearning for transcendence. The conception of the “other” who changes us is familiar in the Judeo-Christian tradition. The idea of changing ourselves is of a different vintage – is one coming true and the other being falsified? Or is it a false dichotomy, a meaningless distinction? 
 
-There are two types of of existential threat: that which threatens our existence, and that which makes us existentialists – [Suspended Reason](https://suspendedreason.com)
+_"There are two types of of existential threat: that which threatens our existence, and that which makes us existentialists"_ – [Suspended Reason](https://suspendedreason.com)
 
 **I**
 
