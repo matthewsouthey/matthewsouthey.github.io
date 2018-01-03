@@ -1,6 +1,6 @@
 ---
 published: true
-title: 'Hmm: Motte and Bailey Plus Bad-Faith'
+title: 'Hmm: Motte-and-Bailey Plus Bad-Faith'
 comments: true
 ---
 “Motte-and-bailey” is an interesting rhetorical fallacy that was formulated by Nicholas Shackel ([here](https://philpapers.org/archive/SHATVO-2.pdf)), and then summarized by (the inimitable) Scott Alexander ([here](http://slatestarcodex.com/2014/11/03/all-in-all-another-brick-in-the-motte/)). In Scott’s article, he mentions that weakmanning is a mirror image of the motte-and-bailey fallacy - in a dialogue, the combination of these fallacies can lead to an impasse. 
@@ -9,7 +9,7 @@ Motte-and-bailey is a fallacious defensive strategy: it is the putting forth of 
 
 Weakmanning is a fallacious offensive strategy: it is the restatement of an opponents argument so that it refers to the most easily attacked form: ie. ("Most KKK members are Christian - Christians are racist"). Strawmanning is creating an opposing argument that is obviously false, weakmanning is a sampling bias that chooses the weakest point to attack (regardless of how poorly representative the sample is). The idea of steelmanning is not a fallacy: it is the putting forth of your opponent's strongest argument and then responding to it. Steelmanning requires good-faith to use: an attempt to have a conversation that results in the truth (Bryan Caplan's [ideological turing test](http://econlog.econlib.org/archives/2011/06/the_ideological.html) is a form of steelmanning). Hopefully the truth is reached together and there is a meeting of the minds (of course, this is not always possible). Straw and weakmanning rely on bad faith: the automatic assumption that the other person is wrong and that you will prove yourself to be right at all costs - such as relying on fallacies.
 
-In Scott's words, "So weak-manning is replacing a strong position with a weak position to better attack it; motte-and-bailey is replacing a weak position with a strong position to better defend it". Motte-and-bailey is a fallacious defensive strategy, and weakmanning is a fallacious offensive strategy. Both involve switching between weak and strong arguments, or between easily defended and difficult-to-defend arguments. 
+In Scott's words, "So weak-manning is replacing a strong position with a weak position to better attack it; motte-and-bailey is replacing a weak position with a strong position to better defend it". Motte-and-bailey is a fallacious defensive strategy, and weakmanning is a fallacious offensive strategy. Both involve switching between weak and strong arguments, or between easily defended and difficult to defend arguments. 
 
 At the end of his post, Scott writes:
 
