@@ -1,0 +1,66 @@
+---
+published: true
+title: 'Religion: Common Sense Dualism and Buddhism'
+comments: true
+---
+**I.**
+
+Paul Bloom uses the term “[common sense dualism](https://www.edge.org/conversation/paul_bloom-natural-born-dualists)” to describe the inborn tendency to see the self as an immaterial thing that occupies the physical body. Bloom claims that this tendency is present even in very young babies – we are born with an innate sense of dualism.  The cultural institutions that expand upon and interpret such dualism, such as many of the world’s religions, are extrapolations on this inborn tendency. Common sense dualism is grounded in contemporary scientific research, and supposes an inborn psychological disposition rather than a cultural development (in distinction to Jasper’s Axial Age). Bloom’s dualism is between the body and an immaterial self, what we can call the “dualistic self-model”. It is directly concerned with the nature of self, and its relationship to the body (“where the self is housed”). 
+
+Many, but not all, religions involve body/mind dualism. If Bloom’s common sense dualism is correct, religious institutions that support a flesh/soul distinction are simply enacting a pre-given disposition. But what of religious movements that try to negate dualism, such as Buddhism? Are these religious expressions combating a natural tendency to dualism, and if so, why is dualism being combated? Bloom is trying to combat dualism since he beliefs it is scientifically inaccurate. Is the Buddhist reaction, simply one that seeks to be accurate (albeit, from a non-scientific background)? Or is there also a normative component?
+
+**II.**
+
+I first want to discuss some of Bloom’s points before discussing the relationship to Buddhism.
+
+Bloom says the scientific studies are indicative but inconclusive regarding whether young babies do possess a dualistic self-model. But he provides two pieces of personal evidence that young children do in fact see themselves as having a body and immaterial self. The first one involves his son Max, who talks about his brain as if it’s something he possesses. 
+
+>Once children learn that the brain is involved in thinking, they don't take it as showing that the brain as the source of mental life; they don't become materialists. Rather they interpret "thinking" in a narrow sense, and conclude that the brain is a cognitive prosthesis, something added to the soul to enhance its computing power. In other words, there's Max, the person, and then there's his brain, which he uses to solve problems just as he might use a calculator or a computer.
+
+The second piece of evidence is that children often think that mental life continues beyond death. That a dead mouse still likes cheese, knows he’s dead, etc.
+
+>What is more interesting is that they also asked children about the mental life of the mouse. Now that the mouse is not alive, does he still love his mother? Does he still like cheese? Does he know he's dead? For these questions the children tended to answer Yes. So they tacitly believe that even though the mouse is not alive any more, its mental life persists. This is the foundation for the more articulated view of the afterlife you usually find in older children and adults.
+
+Bloom attributes these observations, alongside other studies, as evidence that young children possess dualistic self-models. I am not sure that this is the only plausible explanation of these facts. For example, the English language is naturally dualistic simply through subject/object syntax. Even if you do not believe that “I am thinking” (since you are your brain and not separate from its activities), few people will understand “the brain is thinking” or “thinking is happening” as an alternative. Linguistically, talking as if we possess a brain is a lot clearer than speaking as if we are our brain. Young children are not going to have the capacity to express themselves through non-dual speech, and they might be taking cues about the world from the way we structure language. It is important for researchers to control for the language variable in future studies.
+
+The linguistic caveat does not explain away the fact that Max explicitly denotes the things that his brain does and doesn’t do in regards to his mental life. It also doesn’t explain why children think that a dead mouse still likes cheese. It is possible that linguistic structure follows from innate dualism, but it could be that dualistic self-modelling is related to language: either through children inferring facts about the world from linguistic structure, or children’s inability to express themselves in a non-dual fashion. It is important for researchers to recognize that young children are not adept at language – children are versed in language conventions that are dualistic. Therefore, it is difficult to parse the causal origin of dualistic belief in young children: they don’t have the linguistic skills to express non-dual concepts, and they might be deriving their dualism from language to some extent.
+
+**III.**
+
+The Buddhist doctrine of “no-self” (skt. Anatman), is a fundamental belief of Buddhism, but this has not always been the case. In her book Buddhist Philosophy, Amber Carpenter discusses the historical prevalence of the pudgalavadins, or believers in the idea of a person (skt. pudgala) that is above the [five aggregates](https://en.wikipedia.org/wiki/Skandha). The pudgalavadins were not a minor sect, but a definite philosophical school within Buddhism. Carpenter writes,
+
+>Although vociferously rejected by other Buddhists, the pudgalavāda – the person-claim – flourished for at least the first millennium of Buddhism in India; Xuanzang (Hsüan-tsang), a seventh-century scholar visiting India from China, records that more than a quarter of Buddhists of his time adhered to the pudgalavāda.
+>
+>Nearly three-quarters, however, did not. And perhaps for good reason.
+>
+>There are moral and practical reasons for dismissing any doctrine of ‘self’. Such beliefs lead us to action that is inappropriate, and lead us to develop character traits that make ourselves and others unhappy; a fixed notion of the self as permanent or impermanent would make the very possibility of moral improvement conceptually impossible; and holding any particular variety of self-belief invests the thing believed in with a kind of importance it could not possibly live up to.
+
+Although the explicit doctrine of self-hood has vanished from mainstream Western Buddhism, there are still many ways in which Buddhism subtly supports dualistic ideas of the self.
+
+Buddhists took the Vedic idea of karma but rejected the idea of atman, or “self”. Unfortunately, these two concepts are more related than they would appear. One use of karma is the uncontroversial statement of cause and effect: all actions have reactions. Another use of karma is to explain a fundamental moral disrepancy: why do bad things happen to good people, and why do good things happen to bad people? A possible way of solving this problem is by positing lives before and after this one; the quality of future lives is dictated by past lives. So if I was a good person in a past life, that is why good things happen to me despite being a horrific despot. 
+
+The fact that Buddhism rejects the self makes it difficult to explain what carries between lives. There are many similes given, “it is like a candle that likes another candle”, or “it is like a rearranged stack of blocks”. Both of these similes are simply referring to the truth of cause and effect – they shed no light on what continues between lives. If the claim of reincarnation is more than a non-trivial restatement of karmic cause-effect, I am curious to hear an in-depth description of what actually continues.
+
+In Tibetan Buddhism, the dualistic self-model is obvious: when certain prestigious lamas die there is a search for their reincarnation (tib. Tulku). The searchers bring possessions of the lama and interview children, observing how the child reacts to the objects. The searchers look for auspicious signs that they have found the correct reincarnation (dreams, actions of the child, etc.). When the 16th Karmapa (the leader of the Karma Kagyu school) died, there was a fracas as to who was the true reincarnation -and now, for the first time in history, there are two Karmapas.
+
+When it comes to the relationship between religion and the supernatural, [motte-and-bailey](https://matthewsouthey.com/2018/01/03/motte-and-bailey.html) is a common defensive tactic. Christians who are interrogated about their beliefs, may say that Christianity is simply “an ethical framework that admits of the constant unknown element of existence”. Similarly, when questioned about their beliefs, Buddhists may say that “reincarnation is merely the fact that our actions have ramifications beyond this particular consciousness”. Both of these claims are true, the Bible does provide an ethical framework, and Buddhism does discuss how our actions have effects beyond ourselves. But this is a strategic retreat from Buddhism as a religion to Buddhism as philosophical or meditative practice, or from Christianity as religion, to Christianity as moral counsellor.
+
+As we can see, even within Buddhism there is a tendency towards dualism, or at least some sort of immaterial substance that defines us. However, there is also a lot of Buddhist material that negates the self – ranging from the Nikayas, to the Dhammapada, and the Milinda Panha (the famous chariot metaphor). According to these sources, the self is considered inaccurate, it is a delusion that evaporates when one intensely looks for it. But the doctrine of no-self is not just accurate, it is also normative and palliative: believe in a self is at the root of our suffering. Nevertheless, the dualistic self-model can be found historically, [textually](https://www.accesstoinsight.org/tipitaka/mn/mn.063.than.html), and in the contemporary practice of Buddhism.
+
+**IV.**
+
+Intellectually, it requires more work to adhere to the dualistic self-model: one has to explain the nature of the self and how it relates to that which is not-self. Dualism makes a lot more sense when it is implicitly assumed rather than explicitly explained. With the collapse of the dualistic self-model, metaphysical-dualism also comes under question: is the world composed of physical stuff or mental stuff? Metaphysical-dualism collapses in one of three directions: towards materialism (there is only physical objects), immaterialism (there is only immaterial things, like spirit or mind), or non-dualism (there is neither physical nor non-physical things). The distinction is largely linguistic wordplay, all three explanations of the world are unfalsifiable since they involve the totality of our existence. Totalities are inherently unfalsifiable since we cannot verify they are totalities. We can never perceive the limit of our vision, for if we did, it would no longer be the limit of our vision (paraphrase of Wittgenstein’s “Death is not an event in life: we do not live to experience death... Our life has no end in just the way in which our visual field has no limits”).
+
+Metaphysical views are often used as justification for pragmatic views: since the world is material, mental life or phenomenology is worthless; or that since the world is immaterial, science can’t be true; or that since neither of these views are true, I’m going to become a Buddhist. None of these three conclusions can be logically deduced from the prior metaphysical claims.
+
+These three views can be pragmatically useful, in a non-metaphysical sense, for analyzing the mind, since they can be prescriptive of specific methodologies – for example, they are all used in cognitive science. Focusing on material explanations helps divine the working of the brain, prioritizing the mind gives importance to the phenomenal qualities of experience, and a non-dual perspective helps reconcile how mind and body are interconnected. 
+
+**V.**
+
+Paul Bloom’s article ends with this statement:
+
+>Common-sense dualism is wrong. There is no consensus as to precisely how mental life emerges from a physical brain, but there is no doubt that this is its source. If by ‘soul’, then, you mean something immaterial and immortal, then souls do not exist. All of us are soulless bodies...
+
+The reason that Bloom rejects dualism is because he finds it scientifically false. Buddhism can reject dualism for two reasons: because the “self”, whether material or immaterial, cannot be found and is therefore inaccurate; and that a sense of having a self is the cause of suffering and immoral behaviour. In Buddhism, a desire for happiness and a distaste for suffering can motivate a person to move beyond a dualistic self-model.
+
+The dualistic self-model is therefore at odds within the discourses of science and some forms of philosophical Buddhism. The extent to which it is found within children and a religion that supposedly denies the self, is perhaps evidence of the deeply ingrained nature of the dualistic self-model. With more research, perhaps it will be possible to trace the origins of this model, and with hard work, it seems possible that we can move beyond it (perhaps for our own benefit).
