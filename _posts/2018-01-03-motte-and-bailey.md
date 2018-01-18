@@ -14,9 +14,9 @@ In Scott's words, "So weak-manning is replacing a strong position with a weak po
 At the end of his post, Scott writes:
 
 >Suppose we’re debating feminism, and I defend it by saying it really is important that women are people, and you attack it by saying that it’s not true that all men are terrible. Then I can accuse you of making life easy for yourself by attacking the weakest statement anyone vaguely associated with feminism has ever pushed. And you can accuse me if making life too easy for myself by defending the most uncontroversially obvious statement I can get away with.
-
+>
 >So what is the real feminism we should be debating? Why would you even ask that question? What is this, some kind of dumb high school debate club? Who the heck thinks it would be a good idea to say “Here’s a vague poorly-defined concept that mind-kills everyone who touches it – quick, should you associate it with positive affect or negative affect?!”
-
+>
 >Taboo your words, then replace the symbol with the substance. If you have an actual thing you’re trying to debate, then it should be obvious when somebody’s changing the topic. If working out who’s using motte-and-bailey (or weak man) is remotely difficult, it means your discussion went wrong several steps earlier and you probably have no idea what you’re even arguing about.
 
 I think this paragraph is one of the most important paragraphs of the article and yet it could be further clarified. Scott is saying “What is important here is that if you need to clarify what you are arguing about, then you have no reason to be arguing. You are arguing for argument’s sake as if you are in a highschool debate club”. This is important – because I think learning about rhetorical fallacies can cause them to increase if no attention is payed to “why you are having an argument in the first place” and why not have a discussion instead? See my previos post on this [here](https://matthewsouthey.com/2017/09/22/conflict-agreement.html).
