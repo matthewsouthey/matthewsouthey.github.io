@@ -5,7 +5,7 @@ comments: true
 ---
 **I.**
 
-The classic example of a [perverse incentive](https://en.wikipedia.org/wiki/Perverse_incentive) is during the British Raj in India when cities were overrun by cobras. The colonial government instituted a system where civilians could bring in cobra heads for a cash reward. Initially this lead to the diminishment of the cobra population since cobras were a ubiquitous pest. However, as the cobra population dwindled, Indians began breeding and farming cobras and brining in their heads. When the British caught wind of this, they stopped offering the cash reward, which made all the farmed cobras worthless. The cobra farmers released the cobras into the city, thereby raising the cobra population above the initial level. This is a case of value optimization having a paradoxical effect – but in any system, stated values may not be optimized and others might be prioritized in their stead. Just like the goal of reducing wild cobras shifted to maximizing cobra production, so other systems can begin to shift values.
+The classic example of a [perverse incentive](https://en.wikipedia.org/wiki/Perverse_incentive) is during the British Raj in India when cities were overrun by cobras. The colonial government instituted a system where civilians could bring in cobra heads for a cash reward. Initially this lead to the diminishment of the cobra population since cobras were a ubiquitous pest. However, as the cobra population dwindled, Indians began breeding and farming cobras and brining in their heads. When the British caught wind of this, they stopped offering the cash reward, which made all the farmed cobras worthless. The cobra farmers released the cobras into the city, thereby raising the cobra population above the initial level. This is a case of value optimization having a paradoxical effect, the situation ends up worse rather than better. But in any system, stated values may fail to be optimized and other values prioritized in their stead.
 
 What causes this malignant shift to other values, is the nature of metrics. For a given goal, there are quantifiable metrics that allow progress to be tracked. The stated value of reducing cobras was measured by cobra heads brought to the authorities. What the British didn’t realize, was that the metric isn’t ONLY correlated with wild cobras that are caught and killed. In fact, it is more efficiently correlated with increasing cobra populations than with decreasing cobra populations.
 
@@ -37,7 +37,7 @@ The values that are being optimized are out-of-wack from the company’s stated 
 
 - Instead of maximizing constructive feedback, laudatory applause is maximized
 
-- Instead of maximizing the teacher-student learning dynamic, being a clown is maximized.
+- Instead of maximizing the teacher-student learning dynamic, being a clown is maximized
 
 Parent satisfaction is the metric that is measured and business decisions are based off of it. Customer satisfaction is the most important thing to the company – and the customer isn’t the child, it’s the parent. Unfortunately there are many ways this metric can be achieved that doesn’t involve the child effectively learning English.
 
