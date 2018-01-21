@@ -55,4 +55,4 @@ The problem of perverse incentives, ideas over fact (false value optimization), 
 
 In my experience, Chinese ESL teaching is prioritizing surface-level metrics over more rigorous metrics, perhaps for the sake of ease and profit. Since these incentives might be beneficial to the company it might not truly be a perverse incentive (regardless if the incentives were purposefully applied). The solution to this problem is not entirely clear; creating systems that achieve their stated goals is notoriously difficult. Without a solution, some of the world’s most important institutions will continue to fruitlessly spin their wheels in the pursuit of their stated values.
 
-Further Semi-Related Reading:[Meditations on Moloch](http://slatestarcodex.com/2014/07/30/meditations-on-moloch/)
+Further Semi-Related Reading: [Meditations on Moloch](http://slatestarcodex.com/2014/07/30/meditations-on-moloch/)
