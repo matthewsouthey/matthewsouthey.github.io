@@ -1,6 +1,6 @@
 ---
 published: true
-title: 'Teaching: Incentivizing Entertainment Over Education'
+title: 'Teaching: Incentivizing Entertainment over Education'
 comments: true
 ---
 **I.**
