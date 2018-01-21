@@ -23,7 +23,7 @@ The first week of teaching, I would fill the feedback box with positive construc
 
 Students aren’t totally voiceless, some of them will tell the parents how the class went or even rate the teacher themselves. If the children don’t enjoy the class, then they will tell their parents that they were bored, that the teacher was bad, and that they didn’t learn anything. To avoid this problem, a teacher’s goals must shift from maximizing education, to maximizing amusement. You become a clown, who happens to speak a different language.  In class the other day, I was teaching a beginner who would hit the “Teacher Behavior Issue” button when he didn’t know the answer to a question – I was incentivized to not correct the student and promote mindless verbal repetition. 
 
-I’ve seen many children way above their appropriate level since no teacher wants to “hold a child back”. The child is stuck with an incomprehensible lesson while the teacher is trying to entertain away the fact that very little education is happening.
+I’ve seen many children way above their appropriate level since no teacher wants to “hold a child back”. The child is stuck with an incomprehensible lesson while the teacher is trying to entertain away the fact that very little learning is happening.
 
 To move to a higher-level, the student must be tested on their knowledge and the teacher must fill out a form that gives a student a grade out of 40. For every question the students gets wrong, the teacher’s score is more likely to suffer. 
 
