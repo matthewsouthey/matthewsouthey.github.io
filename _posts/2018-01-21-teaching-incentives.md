@@ -25,7 +25,7 @@ Students aren’t totally voiceless, some of them will tell the parents how the 
 
 I’ve seen many children way above their appropriate level since no teacher wants to “hold a child back”. The child is stuck with an incomprehensible lesson while the teacher is trying to entertain away the fact that very little learning is happening.
 
-To move to a higher-level, the student must be tested on their knowledge and the teacher must fill out a form that gives a student a grade out of 40. For every question the students gets wrong, the teacher’s score is more likely to suffer. 
+To move to a higher class level, the student must be tested on their knowledge and the teacher grades the student out of 40. For every question the students gets wrong, the teacher’s score is more likely to suffer. 
 
 Any attempt to correct the student is seen as an insult to the child, any failure of the student is seen as the teacher’s failure to teach. The teacher is only good when he allows “the natural brilliance of the student to shine” – anything else is a negative reflection of the teacher.
 
