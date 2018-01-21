@@ -13,9 +13,9 @@ What causes this malignant shift to other values, is the nature of metrics. For 
 
 Every morning I teach English online to Chinese students. The kids are great, the pay is alright, and besides the early hors (5-9am) there isn’t much to complain about.
 
-The tutoring company, has recently taken China by storm and has a massive client base of Children all over China ranging from 2 – 14. Parents sign up their children in the hope that their kids can learn English from a native speaker more effectively than from a Chinese English teacher.
+The tutoring company, has recently taken China by storm and has a massive client base of Children all over China ranging from 2 – 14 years old. Parents sign up in the hope that their kids can learn English from a native speaker more effectively than from a Chinese English teacher.
 
-Their stated purpose is to educate children, to maximize child learning. However, it does not play out this way: the value that is being optimized is customer satisfaction. And the customer is not the child, it’s the parent.
+The company's stated purpose is to educate children, to maximize child learning. However, it does not play out this way: the value that is being optimized is customer satisfaction. And the customer is not the child, it’s the parent.
 
 After teaching a class, there is a box where the teacher leaves feedback for the parent. Parents rate the teachers using a 5-apple scale, and these ratings are used by the company to determine contract renewal, raises, etc.
 
