@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: 'Teaching: Incentivizing Entertainment Over Education'
 comments: true
 ---
