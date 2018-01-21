@@ -17,7 +17,7 @@ The tutoring company, has recently taken China by storm and has a massive client
 
 The company's stated purpose is to educate children, to maximize child learning. However, it does not play out this way: the value that is being optimized is customer satisfaction. And the customer is not the child, it’s the parent.
 
-After teaching a class, there is a box where the teacher leaves feedback for the parent. Parents rate the teachers using a 5-apple scale, and these ratings are used by the company to determine contract renewal, raises, etc.
+After teaching a class, there is a box where the teacher leaves feedback for the parent. Parents rate the teacher using a 5-apple scale and these ratings are used by the company to determine contract renewal, raises, etc.
 
 he first week of teaching, I would fill the feedback box with positive constructive feedback for the student. And in the first week I received a slew of poor ratings, with the parent’s comments saying (in English translation) “teacher is rude, teacher is inexperienced, etc.”. I contested these low ratings with the company, but they always sided with the parent. I’ve found out from talking with others that the company sides with the parent most of the time – they have no reason not to, they’re the paying customers. After my first week, I began giving students glowing feedback with only a few words reminding the student to “continue to read”. I now have a perfect formulaic response where I change a few words, and copy-paste it into the review box. And all of as sudden, my ratings shot up. 
 
