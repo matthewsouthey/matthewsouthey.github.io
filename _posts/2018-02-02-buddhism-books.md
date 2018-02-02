@@ -10,7 +10,7 @@ This is a list of books related to Buddhism that I made for a friend. Most of th
 
 There is a massive amount of material on meditation – choosing where to start can feel like drinking from a firehose. Here are some recommendations.
 
-_The Mind Illuminated_ by John Yates
+_The Mind Illuminated_ by John Yates  
 One-stop-shop for all your meditative needs. Covers every step of the path from absolute beginner to stream-entrant.
 
 _Mindfulness in Plain English_ by Henepola Gunaratana
