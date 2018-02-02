@@ -52,4 +52,4 @@ Two of the best books on Buddhist philosophy are _Indian Buddhist Philosophy_ by
 
 **Buddhism and Cognitive Science**
 
-If you’re interested in the field, you should read the holy grail of Buddhism and cognitive science: _The Embodied Mind_ by Varela, Thompson, and Roche. From there you can dig deep into Varela (I recommend _Ethical Know-How_) or Thompson (_Mind in Life_ is his scientific magnum opus and _Waking, Dreaming, Being_ is a popular introduction to a variety of problems at the intersection of Buddhism and cognitive science).
+If you’re interested in the field, you should read the holy grail of Buddhism and cognitive science: _The Embodied Mind_ by Varela, Thompson, and Roche. From there you can dig deep into Varela (I recommend _Ethical Know-How_) or Thompson (_Mind in Life_ is his scientific magnum opus and _Waking, Dreaming, Being_ is a popular introduction to a variety of problems at the intersection of Buddhism and cognitive science). Oh, and _The Bodhisattva's Brain_ by Owen Flanagan is great too.
