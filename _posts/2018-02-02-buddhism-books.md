@@ -41,10 +41,10 @@ An amazing introduction to tantric ideas of the body.
 _Tantra in Practice_ by David Gordon White  
 A great collection of essays concerning Tantra in different contexts.
 
-For canonical texts of Tibetan Buddhism, I really like the series put out by _Library of Tibetan Classics_ particularly their editions on Mind Training and Mahamudra.
-
 _Tantric Treasures_ by Roger Jackson  
 Incredible poetry from old-school Tantric masters Saraha, Tilopa, and Kanha. I recommend digging into Saraha's poetry, a real goldmine of fascinating tantric ideas.
+
+For canonical texts of Tibetan Buddhism, I really like the series put out by _Library of Tibetan Classics_ particularly their editions on Mind Training and Mahamudra.
 
 **Philosophy**
 
