@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Paradoxes of Choice
 ---
 **I.**
