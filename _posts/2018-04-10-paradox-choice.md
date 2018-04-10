@@ -1,6 +1,7 @@
 ---
 published: true
 title: Paradoxes of Choice
+comments: true
 ---
 **I.**
 
