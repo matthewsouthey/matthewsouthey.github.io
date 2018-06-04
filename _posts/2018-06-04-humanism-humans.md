@@ -1,7 +1,7 @@
 ---
 published: true
 ---
-_Everyone should have two pockets, each containing a slip of paper. On one should be written: I am but dust and ashes, and on the other: The world was created for me. From time to time we must reach into one pocket, or the other. The secret of living comes from knowing when to reach into each_ - Rabbi Simcha Bunim
+_Everyone should have two pockets, each containing a slip of paper. On one should be written: I am but dust and ashes, and on the other: The world was created for me. From time to time we must reach into one pocket, or the other. The secret of living comes from knowing when to reach into each._ - Rabbi Simcha Bunim
 
 According to Humanism, human lives are immensely valuable. Humans are special entities with agency and freedom in the world. Secular Humanists affirm the existential problem of humans, that we must create and pursue meaning in our lives independent of a supernatural god. This places an emphasis on the works of man, rather than the grace of god (the classic problem of salvation through works or grace). The special, often ineffable, status of humans is confirmed and accentuated within Humanism.
 
