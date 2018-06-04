@@ -5,7 +5,7 @@ comments: true
 ---
 _Everyone should have two pockets, each containing a slip of paper. On one should be written: I am but dust and ashes, and on the other: The world was created for me. From time to time we must reach into one pocket, or the other. The secret of living comes from knowing when to reach into each._ - Rabbi Simcha Bunim
 
-According to Humanism, human lives are immensely valuable. Humans are special entities with agency and freedom in the world. Secular Humanists affirm the existential problem of humans, that we must create and pursue meaning in our lives independent of a supernatural god. This places an emphasis on the works of man, rather than the grace of god (the classic problem of salvation through works or grace). The special, often ineffable, status of humans is confirmed and accentuated within Humanism.
+According to humanism, human lives are immensely valuable. Humans are special entities with agency and freedom in the world. Secular humanists affirm the existential problem of humans, that we must create and pursue meaning in our lives independent of a supernatural god. This places an emphasis on the works of man, rather than the grace of god (the classic problem of salvation through works or grace). The special, often ineffable, status of humans is confirmed and accentuated within humanism.
 
 There currently exists many prefixes for humanism (Francesca Ferrando lists seven types of these humanisms [here](https://en.wikipedia.org/wiki/Posthumanism)). The difference between two of these -humanisms is particularly interesting:
 
@@ -13,7 +13,7 @@ Transhumanism holds that technology will drastically change the definition of wh
 
 Posthumanism is a movement within (literary) critical theory. It redefines “the human”, and critiques  definitions which negate the world (especially the world of plants, animals, and objects). It is somewhat related to OOO (Object-Oriented Ontology).
 
-Both of these -movements radically reconfigure humanism. Their is a shift away from the parochial idea of the human and towards a more inclusive definition.
+Both of these movements radically reconfigure humanism. Their is a shift away from the parochial idea of the human and towards a more inclusive definition.
 
 Transhumanism is a more scientifically oriented discipline, involving the transformation/augmentation of humans (such as androids, sense extension, nootropics, etc.) and the birth of new forms of sentience (AI, androids, etc.). The essence of “the human” has been blown to bits; the human is no longer found in the visions of transhumanists. A human is a nebulous concept that is forever transforming (like the [Ship of Theseus](https://en.wikipedia.org/wiki/Ship_of_Theseus)).
 
