@@ -1,5 +1,7 @@
 ---
 published: true
+title: 'Humanism Without Humans'
+comments: true
 ---
 _Everyone should have two pockets, each containing a slip of paper. On one should be written: I am but dust and ashes, and on the other: The world was created for me. From time to time we must reach into one pocket, or the other. The secret of living comes from knowing when to reach into each._ - Rabbi Simcha Bunim
 
