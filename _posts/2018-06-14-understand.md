@@ -5,13 +5,13 @@ title: 'Sci-fi: Bodhisattvas and "Understand"'
 ---
 DISCLAIMER: I highly recommend reading Chiang’s story, it’s fairly short, and absolutely fantastic. The worst sort of story-ruining follows. You’ve been warned.
 
-Ted Chiang writes a relatively small amount of fiction, writing technical computer manuals as his day job. However, Chiang has been very succesful with his succinct and potent stories garnering many accolades. His short story, _Story of your Life_, was made into the Denis Villeneuve film _Arrival_.
+Ted Chiang writes a relatively small amount of fiction, writing technical computer manuals as his day job. However, Chiang has been very succesful - his succinct and potent stories have garnered many accolades. His short story, _Story of your Life_, was made into the Denis Villeneuve film _Arrival_.
 
 Chiang’s stories are completely driven by a core idea, with the narrative being a scaffolding to support the central concept. _Understand_ offers a first-person view of what it might feel like to acquire super-human intelligence.
 
 Leon Greco has become brain damaged after nearly drowning, and is given a compound that increases intelligence. His rapidly increased intelligence eventually leads him to a confrontation with Reynolds who has also received the drug. They both have different conceptions of how to apply their accelerating intelligence: Greco wants to pursue further intelligence gains in pursuit of “enlightenment” AKA complete understanding AKA omnipotence; the other character wishes to use his superintelligence for the benefit of humanity at large, to create a prosperous, flourishing world for all human beings.
 
-In the end, the protagonist’s desire for omnipotent “enlightenment” proves to be his downfall. The phrase that defeats the protagonist is  “understand”, and when he comprehends that phrase he “dissolves”.
+In the end, Greco's desire for omniscient “enlightenment” proves to be his downfall. The phrase that defeats him is  “understand” - and it is his understanding of this phrase that causes him to “dissolve”.
 
 Chiang purposefully uses the language of “enlightenment” and “meditation” to elicit comparison between the two main characters: Reynolds the bodhisattva, and Greco the arhat. Arhats are those that achieve enlightenment for themselves, while bodhisattvas are always dedicating their work for the benefit of other sentient beings.
 
