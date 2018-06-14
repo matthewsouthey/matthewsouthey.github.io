@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 comments: true
 ---
 DISCLAIMER: I highly recommend reading Chiang’s story, it’s fairly short, and absolutely fantastic. The worst sort of story-ruining follows (spoilers + analysis). You’ve been warned.
@@ -38,4 +38,4 @@ Reynolds is not interested in leaving the world to its fate. He wishes to bring 
 
 **Side-note on AI:**
 
-Funny enough, Chiang does not think that runaway artificial-superintelligence is a danger to humanity (link)[]. AI researchers such as Eliezer Yudkowsky believe that intelligence and values are orthogonal, that is, values and intelligence aren’t necessarily related: a being can have superintelligence with any set of values. Chiang’s story depicts two agents with comparable intelligence, but two very different sets of values. The chances of a non-human intelligence hitting upon human-aligned values is absolutely tiny (the space of “all values” is truly enormous). A charitable reason for Chiang to give 1 out of 2 agents human-aligned values, is because they are both examples of massive human intelligence. 
+Funny enough, Chiang does not think that runaway artificial-superintelligence is a danger to humanity (link)[]. AI researchers such as Eliezer Yudkowsky believe that intelligence and values are orthogonal, that is, values and intelligence aren’t necessarily related: a being can have superintelligence with any set of values. Chiang’s story depicts two agents with comparable intelligence, but two very different sets of values. The chances of a non-human intelligence hitting upon human-aligned values is absolutely tiny (the space of “all values” is truly enormous). A charitable reason for Chiang to give 1 out of 2 agents human-aligned values, is because they are both examples of massive human intelligence.
