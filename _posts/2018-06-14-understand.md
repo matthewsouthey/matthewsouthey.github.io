@@ -3,9 +3,9 @@ published: true
 comments: true
 title: 'Sci-fi: Bodhisattvas and "Understand"'
 ---
-DISCLAIMER: I highly recommend reading Chiang’s story, it’s fairly short, and absolutely fantastic. The worst sort of story-ruining follows (spoilers + analysis). You’ve been warned.
+DISCLAIMER: I highly recommend reading Chiang’s story, it’s fairly short, and absolutely fantastic. The worst sort of story-ruining follows. You’ve been warned.
 
-Ted Chiang is a relative newcomer to SF, writing technical computer manuals as his day job. However, Chiang has been very succesful, his succinct and potent stories have garnered multiple accolades. His short story, _Story of your Life_, was made into the Denis Villeneuve film Arrival.
+Ted Chiang is a relative newcomer to SF, writing technical computer manuals as his day job. However, Chiang has been very succesful, his succinct and potent stories have garnered multiple accolades. His short story, _Story of your Life_, was made into the Denis Villeneuve film _Arrival_.
 
 What I find most remarkable about Chiang’s stories is that they are almost completely driven by a core idea, with the narrative being a scaffolding to support the central concept. The story offers a first-person view of what it might feel like to acquire drastically increased intelligence, and therefore, greatly increased ability to solve problems and capacities for action.
 
@@ -39,4 +39,4 @@ Reynolds is not interested in leaving the world to its fate. He wishes to bring 
 
 **Side-note on AI:**
 
-Funny enough, Chiang does not think that runaway artificial-superintelligence is a danger to humanity (link)[]. AI researchers such as Eliezer Yudkowsky believe that intelligence and values are orthogonal, that is, values and intelligence aren’t necessarily related: a being can have superintelligence with any set of values. Chiang’s story depicts two agents with comparable intelligence, but two very different sets of values. The chances of a non-human intelligence hitting upon human-aligned values is absolutely tiny (the space of “all values” is truly enormous). A charitable reason for Chiang to give 1 out of 2 agents human-aligned values, is because they are both examples of massive human intelligence.
+Eliezer Yudkowsky believes that intelligence and values are orthogonal, that is, values and intelligence aren’t necessarily related: a being can be intelligent with any set of values. Chiang’s story depicts two agents with comparable intelligence, but two very different sets of values (one values other human beings, the other values beauty and intelligence). The chances of a non-human intelligence hitting upon human-aligned values is absolutely tiny (because the space of “all values” is truly enormous). A charitable reason for Chiang to give 1 out of 2 agents human-aligned values, is because both characters are human (despite being superintelligent). Funny enough, Chiang does not think that runaway artificial-superintelligence is a danger to humanity [link](http://slatestarcodex.com/2018/01/15/maybe-the-real-superintelligent-ai-is-extremely-smart-computers/).
