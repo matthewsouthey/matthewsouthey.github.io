@@ -1,5 +1,6 @@
 ---
 published: false
+comments: true
 ---
 DISCLAIMER: I highly recommend reading Chiang’s story, it’s fairly short, and absolutely fantastic. The worst sort of story-ruining follows (spoilers + analysis). You’ve been warned.
 
