@@ -1,5 +1,7 @@
 ---
 published: false
+title: 'Sci-Fi: Religion and Science in Roger Zelazny’s Lord of Light'
+comments: true
 ---
 Roger Zelazny was a classic science-fiction (SF) author, writing continuously during the mid—late twentieth century. His _Chronicles of Amber_ series is considered to be his magnum opus, although I much preferred his 1967 novel Lord of Light . This might be because I am familiar with the mythos of Hinduism and prefer it to the more fantastical _Chronicles_. A SF book concerned with Asian religions captured the zeitgeist of 1967 when religions from the East were gaining credence, and technology was making massive leaps. _Lord of Light_ won the Hugo award in 1968 (sandwiched between between the Summer of Love and Woodstock) with it’s portrayal of the war against the gods. A recurring theme in Zelazny’s work is humans becoming gods; using advanced technology, a group of humans made themselves gods modeled after the Hindu pantheon. They keep the technological origins of their power hidden so they are believed to be supernatural. The leader of the resistance, a Buddha-like figure, has the knowledge that it is not magic but merely technology. Reincarnation, karma, heaven, and godly power are enabled by this technology and are used to enforce obeisance to the “gods”. 
 
