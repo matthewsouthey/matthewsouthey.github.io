@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: 'Sci-Fi: Religion and Science in Roger Zelazny’s Lord of Light'
 comments: true
 ---
