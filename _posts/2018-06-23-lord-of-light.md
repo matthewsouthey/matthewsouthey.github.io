@@ -1,13 +1,13 @@
 ---
 published: true
-title: 'Sci-Fi: Religion and Science in Roger Zelazny’s Lord of Light'
+title: 'Sci-fi: Religion and Science in Roger Zelazny’s Lord of Light'
 comments: true
 ---
 Roger Zelazny was a classic science-fiction (SF) author, writing continuously during the mid—late twentieth century. His _Chronicles of Amber_ series is considered to be his magnum opus, although I much preferred his 1967 novel Lord of Light . This might be because I am familiar with the mythos of Hinduism and prefer it to the more fantastical _Chronicles_. A SF book concerned with Asian religions captured the zeitgeist of 1967 when religions from the East were gaining credence, and technology was making massive leaps. _Lord of Light_ won the Hugo award in 1968 (sandwiched between between the Summer of Love and Woodstock) with it’s portrayal of the war against the gods. A recurring theme in Zelazny’s work is humans becoming gods; using advanced technology, a group of humans made themselves gods modeled after the Hindu pantheon. They keep the technological origins of their power hidden so they are believed to be supernatural. The leader of the resistance, a Buddha-like figure, has the knowledge that it is not magic but merely technology. Reincarnation, karma, heaven, and godly power are enabled by this technology and are used to enforce obeisance to the “gods”. 
 
 The scientific basis of this technology is only nodded to, which makes _Lord of Light_ an example of soft-SF. Hard-SF is that which makes a point to explain the details of the fictional science. Roger Zelazny did this on purpose, specifically straddling the genres of SF and fantasy, underlining the question of what is science and what is magic. Zelazny said:
 
-	On the one hand, I attempted to provide some justifications for what went on in the way of the bizarre; on the other, I employed a style I associate with fantasy in the telling of the story. I wrote it that way on purpose, leaving some intentional ambiguity, because I wanted it to lie somewhat between both camps and not entirely in either. 
+>On the one hand, I attempted to provide some justifications for what went on in the way of the bizarre; on the other, I employed a style I associate with fantasy in the telling of the story. I wrote it that way on purpose, leaving some intentional ambiguity, because I wanted it to lie somewhat between both camps and not entirely in either. 
 
 The details of the technology, the precise chronology of events preceding the book, and even the setting all remain purposefully ambiguous. For example, it appears that the setting is on an another world, or a radically altered earth. People who remember the previous state of affairs are called “first men” and are the original settlers of the land. The planet was occupied by other sentient beings such as energetic “spirits” who resist the colonization of the humans. The blurring of SF and fantasy tropes map onto the blurring of scientific and religious understandings of the world.
 
