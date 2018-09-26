@@ -35,12 +35,12 @@ Two quotes are relevant here: Arthur C. Clarke&#39;s law that &quot;Any sufficie
 What Zelazney is doing is pairing a rebellious Buddhism with a rebellious science – a union of revolutionary knowledge. Buddhism destroys the dominant ideology, while science distributes power to those who were previously impoverished. The historical idea that Buddhism was subversive to the Hindu establishment has been brought to the future. In some ways, we&#39;re currently living in that time – authors like David Loy have been publishing essays about the social theory of Buddhism since the 90&#39;s.
 
 All this to say, SF might just be correlated with cultural trends, reflecting the milieu in which it is embedded. It is difficult to discern the extent to which SF causally produced or contributed to cultural trends. Of course, it is difficult to disentangle causation from correlation, but looking back at the time period, SF literature serves up a prescient vision that has become a substantial research agenda and popular way of understanding Buddhism in the modern world. In the 50&#39;s and 60&#39;s, one of the best places to find a dialogue between Buddhism and science was in the pages of an SF story. Not all SF writing was interested in consilience, but it&#39;s remarkable that some of the most enduring works from that time present a very hopeful and constructive outlook. The Mind and Life Institute is one example of modern consilience, or the popularity of books such as _Waking Up: Spirituality Without Religion_ by the atheist Sam Harris.  Three relationships were reviewed in this essay: science as tool of Buddhist mysticism, Buddhism as science of the mind, and Buddhism as allied with a rebellious science. It is fascinating to see how these views reflected and modified popular ideas in the milieu of the 50&#39;s and 60&#39;s. It is also fascinating to chart the accurate predictions that SF authors of the past have made, such as the internet (William Gibson) and satellite broadcasting (Arthur C. Clarke). Currently, we can see authors like Ted Chiang and Hannu Rajaniemi doing similar things with religion – making predictions about how religion relates to a radically accelerating technoculture. The circumference of our knowledge becomes the edge of our mystery, so let&#39;s hope that this dual-aspect of culture and scientific production continues unabated.
-
-
-
-
-
-
+  
+  
+  
+  
+  
+  
 Works Cited
 
 Clarke, Arthur. _Childhood&#39;s End_. Gollancz, 2001. eBook.
