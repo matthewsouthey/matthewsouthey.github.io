@@ -1,0 +1,13 @@
+---
+published: true
+layout: post
+comments: true
+title: 'A Review of Metropolitan (1990): A Straussian Classic'
+---
+Leo Strauss was a philosopher who described writers as writing esoteric or hidden messages into their works of art – this was often due to the writer harboring an unpopular political opinion. I first heard this term used by the economist Tyler Cowen. 
+
+Whit Stillman’s _Metropolitan_ is great because it takes place inside modern Manhattan, and yet feels timeless – it could be any time since the 1960s. The movie follows the boring parties of young, rich, WASPs over a two week time period. The movie is rich in witty philosophical dialogue but what the director is ultimately saying is veiled. I believe that the director is describing a particularly conservative vision: what downward mobility feels like. The characters are existentially concerned about their future, to the point of one character having a copy of Oswald Spengler’s The Decline of the West on his bedside table. At one point, two male protagonists meet an aged version of themselves, and they ask him about the “doom” awaiting their social class – unfortunately what the man describes is not catastrophe but a slide into mediocrity.
+
+On the surface the film has nothing to hide: it’s merely a comedy of manners, or a costume piece without costumes. But it’s ultimately a depiction of social class but with no larger normative commentary – it paints the decline of north-eastern WASPs as a tragedy. This is a reactionary position – the vast number of people see the fall of an aristocracy as a good thing. Privileged people losing their positions of privilege is one of America’s favorite things to watch. In _Metropolitan_, one of the characters monologues about how everyone talks about American upward mobility, but no one is talking about downward mobility. In a Criterion Collection movie, to paint elite, rich, white New Yorkers as sympathetic characters is something that must not be done too obviously. And that’s okay, because there’s so much going for the film that it deserves to be canonized if just for its obvious merits alone.
+
+I understand why this film is unknown now – one doesn’t have to to be a literary genius to understand the reactionary nature of the film. Furthermore, such elitism is no longer a staple of the American popular imagination. _Metropolitan_ would not succeed nowadays for two reasons: people do not want sympathetic stories of downward mobility, and secondly, people would not understand the characters themselves – they are a relic of the past.
