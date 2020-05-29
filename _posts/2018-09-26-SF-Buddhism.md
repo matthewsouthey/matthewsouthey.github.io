@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: "How American Science Fiction of the 1950's and 60's Transformed the Popular Understanding of Buddhism"
 comments: true
 ---
