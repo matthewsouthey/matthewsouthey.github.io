@@ -4,7 +4,7 @@ published: true
 comments: true
 ---
 
-_This is an article I wrote for [BikeHouston](). Although most posts on my blog are not proofread or edited, this one is in special need of review._
+_This is an article I wrote for [BikeHouston](https://bikehouston.org/suburbia-redundancy-and-the-bicycle/). Although most posts on my blog are not proofread or edited, this one is in special need of review._
 
 _Illustrations by Leon Krier from his book Drawing for Architecture_
 
