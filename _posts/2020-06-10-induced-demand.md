@@ -18,7 +18,7 @@ With 26 lanes at its widest point, the Katy Freeway in the Houston metro is the 
 >
 >The Sisyphean saga of the Katy Freeway is a textbook example of a counterintuitive urban transportation phenomenon that has vexed drivers, planners, and politicians since the dawn of the automobile age: induced demand.
 >
->[](https://www.citylab.com/transportation/2018/09/citylab-university-induced-demand/569455)
+><https://www.citylab.com/transportation/2018/09/citylab-university-induced-demand/569455>
 
 Increasing roadway capacity fails to improve congestion! And this has already been proven in Houston!
 
