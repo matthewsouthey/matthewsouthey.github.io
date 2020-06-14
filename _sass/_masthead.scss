@@ -21,9 +21,13 @@
     font-weight: 400;
     opacity: .5;
   }
-  
+
   lanksy {
     font-size: 75%;
-    font-weight:390
+    font-weight:390;
+
+    a:hover {
+      text-decoration:underline;
+    }
   }
 }
