@@ -11,3 +11,18 @@ Unedited, unproofread thoughts on religion & mysticism, philosophy, books, and t
 <br><br>
 Email: mattsouthey (at) protonmail.com
 <br>
+<script>
+var xenotationTo60 = ['((-P)):', '(-P):',':', '(:)', '::', '((:))', '(:):', '(::)', ':::', '(:)(:)', '((:)):', '(((:)))', '(:)::', '((:):)', '(::):', '((:))(:)', '::::', '((::))', '(:)(:):', '(:::)', '((:))::', '(::)(:)', '(((:))):', '((:)(:))', '(:):::', '((:))((:))', '((:):):', '(:)(:)(:)', '(::)::', '(((:)):)', '((:))(:):', '((((:))))', ':::::', '(:)(((:)))', ':((::))', '((:))(::)', '::(:)(:)', '(::(:))', ':(:::)', '(:)(:(:))', ':::((:))', '((:(:)))', ':(:)(::)', '(:(::))', '::(((:)))', '(:)(:)((:))', ':((:)(:))', '((:)((:)))', '::::(:)', '(::)(::)', ':((:))((:))', '(:)((::))', '::(:(:))', '(::::)', ':(:)(:)(:)', '((:))(((:)))', ':::(::)', '(:)(:::)', ':(:((:)))', '(((::)))', '::(:)((:))']
+
+function time() {
+  var date = new Date();
+  var hour = date.getHours();
+  var min = date.getMinutes();
+  var sec = date.getSeconds();
+
+document.getElementById("clock").innerHTML = xenotation[hour] + "|" + xenotation[min] + "|" + xenotation[sec];
+}
+
+setInterval(time, 1000);
+</script>
+<span id="clock"></span>
