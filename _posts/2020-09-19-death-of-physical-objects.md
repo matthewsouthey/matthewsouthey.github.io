@@ -1,5 +1,5 @@
 ---
-title: ‘The Death of Physical Objects’
+title: 'The Death of Physical Objects'
 comments: true
 published: true
 ---
