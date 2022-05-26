@@ -4,7 +4,7 @@ published: true
 comments: false
 ---
 
-_Note: This is a fun polemic rather than anything too serious... Computers and psychedelics are ambiguous double-edged swords, but their origins are quite dark. This essay focuses on that troubling genesis and some possible cultural continuities. The history of computers here is quite standard, but much of the information about psychedelics and the CIA comes from Stephen Kinzer's excellent book "Poisoner in Chief: Sidney Gottlieb and the CIA Search for Mind Control"._
+_Note: This is a fun polemic rather than anything too serious... Computers and psychedelics are double-edged swords, but their origins are quite dark. This essay focuses on that troubling genesis and some possible cultural continuities. The history of computers here is quite standard, but much of the information about psychedelics and the CIA comes from Stephen Kinzer's excellent book "Poisoner in Chief: Sidney Gottlieb and the CIA Search for Mind Control"._
 
 The computer and LSD were designed to break human beings: one physically, the other mentally. The Army first used the computer to calculate ballistic trajectory tables for new weapons and simulate hydrogen bomb explosions, while the CIA manufactured and experimented with LSD for mind control. An internal CIA memo from 1954 reads: “Can we get control of an individual to the point where he will do our bidding against his will and even against fundamental laws of nature, such as self-preservation?” However, in the 1970s institutional mainframes gave way to personal computers, and LSD became a method to induce a spiritual experience. American weapons became American culture, or in other words, bottom-up control was first created top-down.
 
