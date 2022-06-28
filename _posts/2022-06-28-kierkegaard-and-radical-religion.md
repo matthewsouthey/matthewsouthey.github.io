@@ -1,5 +1,5 @@
 ---
-title: 'Kierkegaard on "Making Religion Radical Again"'
+title: 'Kierkegaard on Making Religion Radical Again'
 comments: true
 published: true
 ---
