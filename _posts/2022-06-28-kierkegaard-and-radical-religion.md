@@ -4,7 +4,7 @@ comments: true
 published: true
 ---
 
-I recently finished reading Bruce H. Kirmmse's new translation of Kierkegaard's _Fear and Trembling_. Reading it for the first time since undergrad, I was struck by how extreme some of Kierkegaard's claims are. If Kierkegaard was campaigning for president, one of his slogans might be: _make religion radical again_. Kierkegaard, in a subtle way, was interested in how religious faith can be at odds with religion as a social or ethical good.
+I recently finished reading Bruce H. Kirmmse's new translation of Kierkegaard's _Fear and Trembling_ (having previously read the Hong translation), and was struck by how extreme some of Kierkegaard's claims are. If Kierkegaard was campaigning for president, one of his slogans might be: _make religion radical again_. Kierkegaard, in a subtle way, was interested in how religious faith can be at odds with religion as a social or ethical good.
 
 This got me thinking about how writers such as [Emile Durkheim](https://en.wikipedia.org/wiki/The_Elementary_Forms_of_the_Religious_Life), or contemporary authors like [Joseph Heinrich](https://en.wikipedia.org/wiki/The_WEIRDest_People_in_the_World), could be seen as anti-Kierkegaardian. Not only are they concerned with the utilitarian function of religion, they also take groups as their fundamental unit of analysis rather than the individual. Kierkegaard, on the other hand, sees religion as a fundamentally individual phenomenon that cannot be justified externally to others.
 
@@ -20,7 +20,7 @@ Perhaps this division is a good thing, if everyone were like Abraham, the modern
 
 At least on the surface, Kierkegaard is claiming that appreciating Abraham is not dangerous since we are recognizing his success _after the fact_. Due to God's grace, Isaac is spared despite Abraham's willingness to carry out God's command. We can witness God's intervention after the fact, which stops Abraham's faith from being a horrific crime. Hence, the mystery is made slightly less socially destructive, by making it only defensible in hindsight. It becomes a descriptive story rather than a prescriptive one.
 
-Kierkegaard writes (with my italics added): 
+Kierkegaard writes (with italics added): 
 
 > If I had conceded as true the judgment that Abraham was a murderer, I don't know whether I could have silenced my veneration of him. But if I had thought that, I probably would have kept quiet about it, for one ought not initiate others into such thoughts... _it is only by faith, not by murder, that one achieves likeness with Abraham_...  Everyone, of course, has passing emotions, but if, on that basis, everyone therefore wanted do the frightful thing that love has sanctified as an immortal achievement, than all would be lost, both the achievement and the individual who had gone astray. _So it is certainly permissible to speak of Abraham, for what is great can never cause harm when it is understood in its greatness: it is like a two-edged sword that both kills and saves._
 
