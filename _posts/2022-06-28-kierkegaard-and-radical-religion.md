@@ -10,7 +10,7 @@ This got me thinking about how writers such as [Emile Durkheim](https://en.wikip
 
 _Fear and Trembling_ is primarily focused on the Abraham and Isaac story from Genesis, and how radical the story really is—it cannot be easily understood when looked at plainly. After waiting so long for a child, Abraham is ordered to sacrifice his son Isaac, which he is ready to do without complaint. As Kierkegaard says, it's not the sort of story one would expect to hear about during an average Sunday sermon. 
 
-In _Fear and Trembling_, I think it's possible to misinterpret Kierkegaard as putting forward an argument in favor of a threefold social order:
+In _Fear and Trembling_, I think it's possible to interpret Kierkegaard as putting forward an argument in favor of a threefold social order:
 
 - The vast number of people don't understand how radical the Abraham and Isaac story is.
 - A much smaller group understand the story but do not desire to be enter into such a personal and painful relationship with god (Kierkegaard puts himself in this category).
